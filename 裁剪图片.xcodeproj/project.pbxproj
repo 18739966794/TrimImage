@@ -15,6 +15,7 @@
 		2736A68E1D140F3B00EE5717 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2736A68C1D140F3B00EE5717 /* LaunchScreen.storyboard */; };
 		2736A6991D140F3B00EE5717 /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2736A6981D140F3B00EE5717 /* ____Tests.m */; };
 		2736A6A41D140F3B00EE5717 /* ____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2736A6A31D140F3B00EE5717 /* ____UITests.m */; };
+		2736A6B21D14197800EE5717 /* cat_image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2736A6B11D14197800EE5717 /* cat_image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2736A69F1D140F3B00EE5717 /* 裁剪图片UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "裁剪图片UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2736A6A31D140F3B00EE5717 /* ____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "____UITests.m"; sourceTree = "<group>"; };
 		2736A6A51D140F3B00EE5717 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2736A6B11D14197800EE5717 /* cat_image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat_image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				2736A6851D140F3B00EE5717 /* ViewController.m */,
 				2736A6871D140F3B00EE5717 /* Main.storyboard */,
 				2736A68A1D140F3B00EE5717 /* Assets.xcassets */,
+				2736A6B11D14197800EE5717 /* cat_image.jpg */,
 				2736A68C1D140F3B00EE5717 /* LaunchScreen.storyboard */,
 				2736A68F1D140F3B00EE5717 /* Info.plist */,
 				2736A67E1D140F3B00EE5717 /* Supporting Files */,
@@ -245,6 +248,7 @@
 			files = (
 				2736A68E1D140F3B00EE5717 /* LaunchScreen.storyboard in Resources */,
 				2736A68B1D140F3B00EE5717 /* Assets.xcassets in Resources */,
+				2736A6B21D14197800EE5717 /* cat_image.jpg in Resources */,
 				2736A6891D140F3B00EE5717 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
